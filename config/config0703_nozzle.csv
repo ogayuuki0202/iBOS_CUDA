@@ -1,0 +1,2 @@
+experiment,process_flag,reference,trim_x1,trim_y1,trim_x2,trim_y2,Lb,Li+Lc,Lc,Li,projection_ratio,f,F_no,ISO speed,SS,max_diff,cutoff_freq,resolution_of_pattarn,sensor_pitch,axis_y,reference_x,temperature(℃),pressure(hPa),humidity(%),density_inf,Unnamed: 26
+2410,1,2409,0,0,5565,3712,30,532,285.1430151979655,246.85698480203456,0.7833173286324138,200.0,40,2500,125,,50,10,0.004220546,1680.0,1000,25,1014.8,63,1.178,
